@@ -12,4 +12,6 @@ Low GABA levels are associated with restlessness, anxiety, insomnia and a poor m
 is the chief excitatory neurotransmitter in the central nervous system.
 
 
- 
+## Misc
+
+Sauna increases growth hormone in the blood https://www.ncbi.nlm.nih.gov/pubmed/3218898
