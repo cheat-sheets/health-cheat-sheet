@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=oJDATLKNoOY&list=PLuXVSZY9-G53pzp4lboV3DdDslVcwr
 
 https://www.ncbi.nlm.nih.gov/pubmed/11958969
 
-## Mediators
+## Nutrition
 
 ### The 5 basic tastes
 
