@@ -62,7 +62,7 @@ The 5 basic tastes help us identify nutrients in the food that are important for
 
 ## Immune System
 
-There are 2 types of the immune system:
+There are 2 types of immune system:
 
 - Innate - works within minutes/hours.
     - Lysozyme (muramidase) - antimicrobial enzyme. Destroys membrane of bacteria. Contained in saliva, tears, human 
@@ -82,7 +82,7 @@ There are 2 types of the immune system:
     - **Antibodies** (aka immunoglobulin (**Ig**)) - Y-shaped protein produced mainly by plasma cells that is used by the 
     immune system to neutralize pathogens such as pathogenic bacteria and viruses. Tags that are attached to antigens.
         - ~100MLN of types of antibody binding sites (paratopes). Determined by random combination of fragments in 
-        5 positions (3 for long chain, 2 for short chain) in each binding site. Much smaller amount of gens are needed
+        5 positions (3 for long chain, 2 for short chain) in each binding site. Much smaller amount of genes are needed
         to encode the fragments, which are then randomly combined when immune cells are generated.
         - 5 types of antibody handles: IgA, gD, IgE, IgG, IgM
     - **B lymphocyte** (B-cells) - secrete antibodies.
@@ -112,6 +112,54 @@ All blood cells are differentiated from stem cells produced in bone marrow.
 thereby initiating a blood clot. 
 
 Basic of immune system in Russian: https://www.youtube.com/watch?v=tJXk2zDomWk
+
+## The Science of Well Being
+
+Biases of our brain that affect how happy we are:
+
+- We don't think in terms of absolutes, we constantly compare ourselves to reference points, we don't have control
+over what those reference points are. In other words we compare ourselves to people around us or 
+who we see on TV/Facebook.
+- Our minds are built to get used to stuff. We become less happy from things that made us more happy before.
+- We don't realize that our minds are built to get used to stuff.
+ 
+Strategies to counteract our bias of getting used to stuff:
+ 
+- **Savoring** - the act of stepping outside of an experience to review and appreciate it (sharing good experiences
+with others, showing physical expressions of energy, telling yourself how proud you are)  
+- **Negative visualization** - thinking about the reverse that could have happened (couples wrote for 15 minutes about
+how they might never had met their partner) 
+- **Make this day your last** - thinking about having something for the last day, e.g. spending your last day at 
+University.  
+- **Gratitude** - the quality of being thankful and a tendency to show appreciation for what one has.
+
+Strategies to counteract our bias of comparing ourselves to reference points:
+
+- **Concretely re-experience** - go back and re-experience what your old reference point was before, e.g. remember your 
+first day at your job that you like more than the previous job.
+- **Concretely observe** - compare yourself to worse reference points.
+- **Avoid social comparisons** - delete Facebook, Twitter, Youtube apps from your phone.
+- **Interrupt your consumption** - e.g. if you're listening to music, make an interruption for some time and then return 
+to it.
+- **Increase your variety** - e.g. eat different kinds of ice-cream instead of same one. 
+
+Right things to want:
+
+- Don't look for a job with high pay, instead look for a job where you can utilize your signature strengths, achieve
+flow.
+- Kindness increases happiness. One study shows that spending money on someone else rather than yourself increases
+happiness.  
+- Social connections make us happier. One study shows that talking to strangers on a metro train makes both
+ parties happier.
+- Time affluence - people who prioritize time over money are happier.
+- Mind wandering (when you default network is active) makes people unhappy. **Meditation** is the practice of
+turning your attention away from distracting thoughts toward a single point of reference (e.g. the breath, 
+bodily sensations, compassion, a specific thought, etc.)
+- Exercise, sleep makes you happier.
+
+WOOP (Wish, Outcome, Obstacle, Plan) - aka MCII (mental contrasting with implementation intentions).
+
+Coursera course: https://www.coursera.org/learn/the-science-of-well-being
 
 ## Misc
 
