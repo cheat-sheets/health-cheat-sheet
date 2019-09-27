@@ -2,9 +2,102 @@
 
 ### Table of Contents
 
+- [Physiology](#physiology)
 - [Mediators](#mediators)
 - [Nutrition](#nutrition)
 - [Immune System](#immune-system)
+
+## Physiology
+
+The physiology in general is an integrative science that deals with complex living organisms, from 
+molecules and cells to organs and organ systems level. 
+
+The physiologist is going to ask two questions:
+- How does the organ and the organ system work? 
+- What's the advantage that this organ system provides to the body?
+
+### Homeostasis
+
+- Differentiated cell - specialized function.
+- Tissue - group of cells with related function: muscle, nervous, connective, epithelium. 
+- Organ - functional unit.
+- Organ system - several organs act together to perform specific function:
+  - Skin - barrier
+  - Entry - respiratory & GI
+  - Transport - CV & diffusion
+  - Exit - renal & GI
+
+**Fluid compartments**:
+
+- Body Weight = 70kg
+  - Total Body Water (TBW): 60% = 42kg 
+    - Inter-Cellular Fluid (**ICF**): 66.6% = 28kg (cytoplasm)
+      high Potassium (K), low Sodium (Na). 
+    - Extra-Cellular Fluid (**ECF**): 33.3% = 14kg (surrounds cells, is an interface with external environment) 
+      high Sodium (Na), low Potassium (K). 
+      - Interstitial fluid (**IS**): 75% = 10.5kg (outside blood vessels)
+      - Intravascular fluid (**IV**): 25% = 3.5kg (inside blood vessels)
+      
+**Equilibrium between IS and IV**:
+- No net transfer of substance or energy
+- No barrier to movement
+- No energy expenditure to maintain
+
+**Steady state between ICF and ECF**:
+- Input = Output
+- Requires energy to maintain
+
+**Homeostasis** - the tendency toward a relatively stable equilibrium between interdependent elements, 
+especially as maintained by physiological processes.
+
+Stability of internal variables is achieved by balancing inputs and outputs to the body and among organ systems.
+
+**5 Types of Homeostatic control**:
+- **Local** response: occurs at target cell, e.g. 
+  - a neighboring cell sends a chemical that reached another cell. 
+  - gap junction (nexus) e.g. calcium flow in heart muscles that enables synchronous contraction and relaxation.
+- **Reflexes**: response made at a distance from target cell (Body uses reflex loops to maintain homeostasis: sensors send 
+signals to the brain where there are **set points** for different parameters, if the value from the sensor is below or 
+above a set point it sends a signal to restore the parameter (similar to temperature control in a room)).
+  - **Endocrine response** (hormones are released into blood).
+  - **Neural response**.
+- **Tonic** control:
+  - Smooth muscles of blood vessels can constrict or dilate them to increase/decrease blood pressure, which is needed
+  to maintain homeostasis in some situations.
+- **Antagonistic** control:
+  - Sympathetic and parasympathetic nervous systems can increase/decrease heart rate.
+- **Circadian** rhythms (affected by sleep/wake cycles):
+  - Growth hormone release during early sleep, falls when we are waking up.
+  - Cortisol increases just before you wake up.
+  - Body temperature decreases when we sleep. 
+    
+**Transporters, Pumps and Channels**:
+
+- Movement of a solute across the lipid bilayer (cell membrane) is dependent on its size, charge, and solubility.
+- Net flux (movement) of a solute is determined by gradients. 
+- A permeable solute crosses the membrane by simple diffusion (slow), moving down its concentration gradient.
+- A non-permeable solute crosses the membrane by facilitated diffusion (fast) using transporters. This process requires
+a gradient, is saturable, and is specific.
+- Primary active transport moves a solute against its concentration gradient. This mechanism requires energy (ATP).
+- Secondary active transport couples the activity of a co-transporter with a pump. This is used for transcellular 
+transport of a solute.
+
+**Solute and Water Transport**:
+
+- Aquaporin - transporter that allows the movement of water across cell membrane.
+- Osmolarity - number of molecules per volume.
+- Tonicity - tonicity is the relative concentration of solutes dissolved in solution which determine the direction 
+and extent of diffusion. Accounts for number of non-penetrating molecules per volume.
+
+![osmosis.jpg](./assets/osmosis.jpg)
+
+- When you inject isotonic (same concentration of non-penetrating molecules per liter) into the blood, 
+ECF volume increases, ICF volume doesn't change, total body water increase.
+- When you lose isotonic fluid during diarrhea, ECF volume decreases, ICF volume doesn't change,
+total body water decreases.
+- When you eat a lot of salty food, ECF volume increases, ICF volume decreases, total body water stays the same.
+- When you sweat (hypotonic loss, only water is lost), ECF volume decreases, ICF volume decreases, total body water 
+decreases.
 
 ## Mediators
 
@@ -111,7 +204,7 @@ All blood cells are differentiated from stem cells produced in bone marrow.
 - **Platelets** (thrombocytes) - the cells that react to bleeding from blood vessel injury by clumping, 
 thereby initiating a blood clot. 
 
-Basic of immune system in Russian: https://www.youtube.com/watch?v=tJXk2zDomWk
+The basics of immune system in Russian: https://www.youtube.com/watch?v=tJXk2zDomWk
 
 ## The Science of Well Being
 
@@ -168,3 +261,8 @@ Sauna increases growth hormone in the blood https://www.ncbi.nlm.nih.gov/pubmed/
 Klotho is an enzyme that in humans is encoded by the KL gene. 
 It appears to be involved in ageing. 
 Exercise seems to play a key role on expression of the Clotho gene https://www.ncbi.nlm.nih.gov/pubmed/29962352
+
+# Resources
+
+- The Science of Well-Being Coursera course: https://www.coursera.org/learn/the-science-of-well-being
+- The basics of immune system in Russian: https://www.youtube.com/watch?v=tJXk2zDomWk
