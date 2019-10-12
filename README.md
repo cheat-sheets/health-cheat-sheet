@@ -3,6 +3,8 @@
 ### Table of Contents
 
 - [Physiology](#physiology)
+  - [Homeostasis](#homeostasis)
+  - [The Nervous System](#the-nervous-system)
 - [Mediators](#mediators)
 - [Nutrition](#nutrition)
 - [Immune System](#immune-system)
@@ -99,6 +101,61 @@ total body water decreases.
 - When you sweat (hypotonic loss, only water is lost), ECF volume decreases, ICF volume decreases, total body water 
 decreases.
 
+### The Nervous System
+
+Cell Types:
+- Neurons (has dendrites, from which signals are coming to the neuron, and axon, through which signal is send away to 
+other neurons) 
+- Glial cells - provide structural and metabolic support for neurons (e.g. insulate the neurons)
+                                                                                               
+**Membrane potential**:
+
+![cell-equilibrium-potential.jpg](./assets/cell-equilibrium-potential.jpg)
+
+![atp-ase-creates-potential.jpg](./assets/atp-ase-creates-potential.jpg)
+
+- ATPase moves 2 Potassium (K) ions inside the cell and 3 Sodium (Na) ions outside the cell. 
+- In addition, Potassium leak channels allow greater movement of Potassium, comparing to 
+Sodium through the Sodium leak channels.
+- These factors create net negative potential on the cell membrane.
+- Nerotransmitters open Na or K channels on the membrane, which cause inflow of Na inside the cell and depolarization
+(potential becomes positive) or repolarization (back to negative) of the cell.
+
+**Action potential**:
+
+![action-potential-propagation.jpg](./assets/action-potential-propagation.jpg)
+
+- Voltage-gated channels on the membrane are open to Na and K when a certain potential threshold is reached. Na channels
+open before K channels. The potential thus propagates through axon which is called action potential.
+
+![integration-of-signal.jpg](./assets/integration-of-signal.jpg)
+
+![axon-initial-segment.jpg](./assets/axon-initial-segment.jpg)
+
+- Graded potential is integrated via dendrites on the body, if the sum of potential reaches the threshold on the 
+initial segment it gets propagated through the axon.
+
+![synapse.jpg](./assets/synapse.jpg)
+
+- When the Action Potential reaches the axon terminal, voltage-gated Calcium channels are open and allow Calcium to go 
+inside the terminal, make vesicles with neurotransmitter to fuse with the membrane and release the neurotransmitter
+into the synaptic cleft.
+
+**Types of synapses**:
+- **Cholinergic**
+  - Nicotinic (skeletal muscle, brain)
+  - Muscarinic (heart, smooth muscle, glands, brain)
+- **Adrenergic** - bind epinephrine and norepinephrine (heart, smooth muscle, glands)
+
+**Nervous System Organization**
+
+The nervous system is composed of the brain, spinal cord, cranial nerves (emerge directly from the brain) and 
+spinal nerves.
+
+![nervous-system-organization.jpg](./assets/nervous-system-organization.jpg)
+
+![transmitters-depending-on-type-of-ns.jpg](./assets/transmitters-depending-on-type-of-ns.jpg)
+                                                                                            
 ## Mediators
 
 ### GABA and Glutamate: Yin and Yang of the Brain
