@@ -155,6 +155,38 @@ spinal nerves.
 ![nervous-system-organization.jpg](./assets/nervous-system-organization.jpg)
 
 ![transmitters-depending-on-type-of-ns.jpg](./assets/transmitters-depending-on-type-of-ns.jpg)
+
+**The Senses**
+
+- **Somatosensation** 
+  - Pain is detected by receptors in skin, muscle and bones and visceral (in organs) receptors. **nerves detecting 
+  chemicals released by damaged cells and immune cells**. 
+  - Temperature. **thermoreceptors** (ion channels activated at certain temperatures) 
+  - Touch, pressure. **mechanoreceptors**.
+  - Proprioception (joint capsule, tendon, and muscle stretch). **mechanoreceptors**.
+- **Special senses** (receptors confined to a specific organ and are associated with cranial nerves)
+  - **Vision** - detects the shape and color of objects and the movement of objects int he environment. Light is detected
+  by different cells (rods - more sensitive to light as there are more of them, cones (blue, red, green cones)) 
+  in the eye and sent via the optic nerve to the visual cortex for processing.
+  - **Hearing** - sound waves are detected by eardrum, connected via middle ear (3 bones) to cochlea via oval window, where
+  there is fluid. Vibraion in fluid is detected by hair cells which cause action potentail in nerve fibers. Frequency
+  is determined by which area of cochlea vibrates most. Volume is detected by aplitude of hair vibration.      
+  - **Vestibular System (Equilibrium)** - located near to inner ear (cochlea), 3 perpendicular hemicircle tubes. Detects
+  the position and the motion of the head in space. 
+  - Chemical Senses
+    - **Taste** - taste buds are located in the tongue. Chemicals dissolved in liquid are detected by taste receptor 
+    cells located in taste buds. 5 basic tastes (umami, salt, sugar, sour, bitter) correspond to 5 chemicals the taste
+    cells detect (glutamate, sodium (Na+), glucose, hydrogen ions (H+), plant alkaloids)
+    - **Smell** - results from the activation of olfactory receptors (~400) in the nose. We can discriminate ~10,000 odors
+    as combination of 400 receptors.
+- Visceral stimuli (pH, O2 content of blood, osmolarity, blood glucose.
+
+**Sensation** - sensory information that reaches the brain
+- what stimulus is (each nerve fiber is responsible only for 1 type of stimulus)
+- where it is
+- how strong (determined by action potential frequency)
+
+**Perception** - how we interpret the sensation  
                                                                                             
 ## Mediators
 
