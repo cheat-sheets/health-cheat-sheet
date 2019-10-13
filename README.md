@@ -143,8 +143,8 @@ into the synaptic cleft.
 
 **Types of synapses**:
 - **Cholinergic**
-  - Nicotinic (skeletal muscle, brain)
-  - Muscarinic (heart, smooth muscle, glands, brain)
+  - **Nicotinic** (skeletal muscle, brain).
+  - **Muscarinic** (heart, smooth muscle, glands, brain).
 - **Adrenergic** - bind epinephrine and norepinephrine (heart, smooth muscle, glands)
 
 **Nervous System Organization**
@@ -186,7 +186,26 @@ spinal nerves.
 - where it is
 - how strong (determined by action potential frequency)
 
-**Perception** - how we interpret the sensation  
+**Perception** - how we interpret the sensation 
+
+**Somatic Nervous System** controls locomotion, fine movements, body posture, and equilibrium by acting on motor
+neurons in the spinal cord that innervate the skeletal muscles.
+
+A motor neuron and the muscle fibers that it innervates constitute a **motor unit**.
+
+Motor neurons have cell bodies located in grey matter of the ventral horn of the spinal cord. The spinal cord contains
+interneurons which play a role in coordinating the responses of antagonistic and synergistic muscles to carry out
+intended movements as well as reflexive movements initiated by sensory receptors.
+
+**Muscle Stretch Reflex (knee jerk reflex)** - when the rubber hammer is striking the patellar tendon under the knee cap
+it's tugging on the quadricep muscle. The afferent neuron coiled around the muscle spindle sense stretch (
+muscle length and speed of stretch). It acts in reciprocal innervation causing contraction of stretched muscle and
+relaxation of antagonistic muscle.
+
+![knee-jerk-reflex.jpg](./assets/knee-jerk-reflex.jpg)
+
+Walking movements are initiated by central pattern generators in the spinal cord. Interneurons coordinately drive 
+antagonistic muscles in withdrawal and crossed-extensor reflexes and can be modified by sensory feedback. 
                                                                                             
 ## Mediators
 
