@@ -5,6 +5,7 @@
 - [Physiology](#physiology)
   - [Homeostasis](#homeostasis)
   - [The Nervous System](#the-nervous-system)
+  - [Muscle](#muscle)
 - [Mediators](#mediators)
 - [Nutrition](#nutrition)
 - [Immune System](#immune-system)
@@ -206,6 +207,74 @@ relaxation of antagonistic muscle.
 
 Walking movements are initiated by central pattern generators in the spinal cord. Interneurons coordinately drive 
 antagonistic muscles in withdrawal and crossed-extensor reflexes and can be modified by sensory feedback. 
+
+### Muscle
+
+![sarcomere.jpg](./assets/sarcomere.jpg)
+
+All muscles are composed of two sets of overlapping filaments, actin and myosin, the relative sliding of which 
+produces shortengin and generates force. This process involves cross bridge formation between actin and myosin and
+uses ATP.
+
+![actin-myosin-atp.jpg](./assets/actin-myosin-atp.jpg)
+
+![t-tubule-sarcoplasmic-reticulum.jpg](./assets/t-tubule-sarcoplasmic-reticulum.jpg)
+
+Action potential travles throug muslce membrane and through T-tubules, causing Calcium to be released from sarcoplasmic
+reticulum to muslce fiber which ignites the reaction causing fiber contraction.
+
+**Tension** of the muscle increases with the increase of action potential frequency. A single AP of 5ms causes a 
+muscle twitch of 100ms.
+
+The tension is highest when the sarcomere length is equal to the sarcomere length in a resting muscle.
+
+**Muscle fuels**:
+- **Creating phosphate** - donates phosphate to convert ADP to ATP in the first 8-10s of muscle activity.
+- **Anaerobic metabolism** (glycolytic) - produces ATP and lactic acid by burning glucose and muscle glycogen. Lasts
+for about 1.5 minutes.
+- **Aerobic metabolism** (oxidative) - produces ATP, CO2 and water by burning blood glucose and fatty acids. Unlimited.
+
+**Rigor mortis** - or postmortem rigidity, is the third stage of death. It is one of the recognizable signs of death, 
+characterized by stiffening of the limbs of the corpse caused by chemical changes in the muscles postmortem. 
+In humans, rigor mortis can occur as soon as four hours after death.
+
+After death, respiration in an organism ceases, depleting the source of oxygen used in the making of 
+adenosine triphosphate (ATP). ATP is required to cause separation of the actin-myosin cross-bridges during relaxation 
+of muscle. When oxygen is no longer present, the body may continue to produce ATP via anaerobic glycolysis. 
+When the body's glycogen is depleted, the ATP concentration diminishes, and the body enters rigor mortis because 
+it is unable to break those bridges.
+
+**Types of muscle fibers**:
+- **Slow-oxydative fibers** - resist fatigue (muscles for posture).
+- **Fast-oxydative-glycolitic fibers** - resist fatigue (muscles used in walking).
+- **Fast-glycolitic fibers** - used for bursts of strong force (muscles used in jump).
+
+Most skeletal muscles include all three fiber types.
+
+Slow-oxydative fibers are recruited by the system first. If more force is required Fast-oxydative-glycolitic fibers
+get involved. Lastly Fast-glycolitic fibers are used for maximal force.
+
+**Training doesn't increase the number of muscle fibers** (it's pre-determined genetically). Instead, it increases the size 
+of muscle, by growing the number of size of capillari in muscle tissue and mitochondria and muscle fibers.
+
+**Smooth muslce**:
+- Involuntary, non-striated (no sarcomeres) muscle associated with blood vessels and visceral organs (e.g. intestine).
+- Contains overlapping protein myofilaments, actin and myosin, the relative sliding of which produces shortening and
+generates force. This process is driven by ATP.
+- Coupling between the membrane potential and contraction is mediated by calcium ions. Calcium regulates myosin to 
+enable cross bridge formation and contraction. 
+- Regulated by the autonomic nervous system (via norepinephrine). Some smooth muscle is regulated by stretch or 
+by paracrine factors.
+- Some smooth muscle exhibits fused tetanus and tonic contraction.
+
+**Cardiac muscle**:
+- involuntary, striated type muscle
+- Contains overlapping protein myofilaments, actin and myosin, the relative sliding of which produces shortening and
+generates force. This process is driven by ATP.
+- Coupling between the membrane potential and contraction is mediated by calcium ions. Calcium regulates myosin to 
+enable cross bridge formation and contraction. 
+- Regulated by the autonomic nervous system.
+- Cardiac muscle contracts in unison and does not develop fused tetanus.
                                                                                             
 ## Mediators
 
@@ -248,6 +317,10 @@ https://www.ncbi.nlm.nih.gov/pubmed/11958969
 
 
 ## Nutrition
+
+https://www.nutritionsteps.org/
+
+https://www.youtube.com/channel/UCxtgzInwVobygfSimD7N6Ug
 
 ### The 5 basic tastes
 
