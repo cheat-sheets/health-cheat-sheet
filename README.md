@@ -6,6 +6,7 @@
   - [Homeostasis](#homeostasis)
   - [The Nervous System](#the-nervous-system)
   - [Muscle](#muscle)
+  - [Cardiovascular System](#cardiovascular-system)
 - [Mediators](#mediators)
 - [Nutrition](#nutrition)
 - [Immune System](#immune-system)
@@ -275,7 +276,85 @@ generates force. This process is driven by ATP.
 enable cross bridge formation and contraction. 
 - Regulated by the autonomic nervous system.
 - Cardiac muscle contracts in unison and does not develop fused tetanus.
-                                                                                            
+
+### Cardiovascular System
+
+![heart.jpg](./assets/heart.jpg)
+
+**Pacemakers**:
+- Sino-Atrial (SA) node fires at 100 beats/min.
+- Atrial-Ventricular (AV) node pauses electrical signal; fires at 40-60 beats/min.
+- Bundle of His and Purkinje fire at 25-45 beats/min.
+
+![ecg.jpg](./assets/ecg.jpg)
+
+- P-wave is atrial depolarization.
+- QRS - ventricular depolarization.
+- T - ventricular depolarization.
+- PR segment - time between SA and AV node firings.
+- ST segment - phase 2 of fast action potential.
+
+Sympathetic NS speeds up heart rate and it acts via Beta-1 adrenergic receptors. Parasympathetic NS decreases heart
+rate, acts through the vagus innervation to muscarinic receptors in the heart.
+
+![heart-as-a-pump.jpg](./assets/heart-as-a-pump.jpg)
+
+- Left ventricle has thickest walls because it's pumping blood through the body.
+- Right ventricle is smaller because it's pumping blood through lungs.
+
+**Cardiac Cycle**  (Wiggers diagram)
+
+![cardiac-cycle.jpg](./assets/cardiac-cycle.jpg)
+
+- The heart makes the "lab-dab" sounds for each cycle.
+- The 1st lab is the closing of a atrioventricular valves.
+- The 2nd dub is the closing of semilunar valves.
+
+- End-diastolic volume (EDV) in each ventricle is 125 ml.
+- During one systole, the volume of blood ejected is the stroke volume (SV). SV is usually 70 ml.
+- The volume remaining is end-systolic volume (ESV). Usually 55 ml.
+
+**Cardiac Performance**
+
+- Cardiac output (CO) volume pumped each minute. 
+- CO = SV * HR
+- HR is usually 72 beats per min. CO = 5 L/min.
+- The ejection fraction (EF) is the percentage of blood pumped from the heart in each beat.
+- CO increases with increased fill of the ventricles (venous return) and/or increased sympathetic stimulation.
+
+**Circulatory System**
+
+![circulatory-system.jpg](./assets/circulatory-system.jpg)
+
+**Pressure and Pulsatility**
+
+![pressure-and-pulsatility.jpg](./assets/pressure-and-pulsatility.jpg)
+
+- Arteries are low resistance conduits that maintain pressure during diastole and distribute blood to organs.
+- Arterioles are the dominant site of resistance to blood flow within the organ.
+- Capillaries are the site of exchange. Balance between hydrostatic and oncotic forces determines the direction of
+fluid movement either into or out of capillaries.
+- Veins are the low resistance conduits for venous return and volume reservoirs.
+
+**Reflex loop**
+
+![reflex-loop.jpg](./assets/reflex-loop.jpg)
+
+- Cardiac output (CO) is matched with tissue blood flow by maintaining mean arterial blood pressure (MAP) relatively
+constant.
+- Baroreceptors act as short term regulators of arterial blood pressure. They provide sensory information to the
+cardiovascular center in the medulla (MCCC). Autonomic outflow from the MCCC maintains blood pressure constant.
+- Total blood volume can change the end diastolic volume of the ventricles and thereby change stroke volume.
+- Hemorrhage reduces EDV leading to hypotension. Normal compensatory response to hemorrhage is vasoconstriction of
+arteries and increased heart rate.
+- Hypotension can result from either a sudden postural change or from prolonged quiet standing. The compensatory
+response is as stated above for hemorrhage.
+- Aerobic exercise increases CO (up to 30 L/min) but reduces TPR (total peripheral resistance) so MAP remains almost 
+constant. In weight lifting, CO, TPR, and MAP increases.
+- Failure of the heart to maintain normal CO leads to increased TPR to maintain MAP.
+- Compensation for decreased CO caused by heart failure (weak heart) includes increase in HR and TPR, vasoconstriction
+of veins, and retention of water by the kidneys. 
+
 ## Mediators
 
 ### GABA and Glutamate: Yin and Yang of the Brain
