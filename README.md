@@ -7,6 +7,7 @@
   - [The Nervous System](#the-nervous-system)
   - [Muscle](#muscle)
   - [Cardiovascular System](#cardiovascular-system)
+  - [Respiratory System](#respiratory-system)
 - [Mediators](#mediators)
 - [Nutrition](#nutrition)
 - [Immune System](#immune-system)
@@ -256,7 +257,7 @@ Slow-oxydative fibers are recruited by the system first. If more force is requir
 get involved. Lastly Fast-glycolitic fibers are used for maximal force.
 
 **Training doesn't increase the number of muscle fibers** (it's pre-determined genetically). Instead, it increases the size 
-of muscle, by growing the number of size of capillari in muscle tissue and mitochondria and muscle fibers.
+of muscle, by growing the number and size of capillari in muscle tissue and mitochondria in muscle fibers.
 
 **Smooth muslce**:
 - Involuntary, non-striated (no sarcomeres) muscle associated with blood vessels and visceral organs (e.g. intestine).
@@ -336,6 +337,24 @@ rate, acts through the vagus innervation to muscarinic receptors in the heart.
 fluid movement either into or out of capillaries.
 - Veins are the low resistance conduits for venous return and volume reservoirs.
 
+**Edema** - an abnormal accumulation of fluid in the interstitium, located beneath the skin and in the cavities 
+of the body. Six factors can contribute to the formation of edema:
+- increased hydrostatic pressure;
+- reduced colloidal or oncotic pressure within blood vessels;
+- increased tissue colloidal or oncotic pressure;
+- increased blood vessel wall permeability (e.g., inflammation);
+- obstruction of fluid clearance in the lymphatic system;
+- changes in the water retaining properties of the tissues themselves. Raised hydrostatic pressure often reflects 
+retention of water and sodium by the kidneys. 
+
+Blood pressure is measured with a device called **sphygmomanometer** and a **stethoscope**:
+- The cuff is inflated until the pressure is high enough to block the blood from in the arm. 
+- When pressure in the cuff of the sphygmomanometer is higher than the systolic pressure there are no sounds.
+- As the pressure in the cuff decreases gradually, the first Korokoff sound appears at the time when the pressure
+in the cuff is equal to the systolic blood pressure.
+- The sounds will first increase in volume, then decrease, until the point when they disappear completely. This
+marks the diastolic blood pressure. 
+
 **Reflex loop**
 
 ![reflex-loop.jpg](./assets/reflex-loop.jpg)
@@ -353,7 +372,94 @@ response is as stated above for hemorrhage.
 constant. In weight lifting, CO, TPR, and MAP increases.
 - Failure of the heart to maintain normal CO leads to increased TPR to maintain MAP.
 - Compensation for decreased CO caused by heart failure (weak heart) includes increase in HR and TPR, vasoconstriction
-of veins, and retention of water by the kidneys. 
+of veins, and retention of water by the kidneys.
+
+![aerobic-exercise.jpg](./assets/aerobic-exercise.jpg) 
+
+### Respiratory System
+
+**Primary Roles**:
+
+- Provide O2 for oxidative  metabolism which generates ATP and CO2.
+- Regulate the body's H+ concentration (pH).
+- Host defense - 70 m2, 10k liters per day.
+
+![lung-airways.jpg](./assets/lung-airways.jpg) 
+
+![alveoli.jpg](./assets/alveoli.jpg) 
+
+**Alveolar-capillary interface** - blood-gas interface. This is also called respiratory membrane. ~70 sqm. for gas
+exchange.
+
+- Frequency of ventilation around 10-18 breaths per minute.
+- Tidal volume around 0.5 liters per breath.
+- Minute ventilation around 5L/min.
+- During heavy exercise air flow can increase 20-fold and blood flow 3-fold.
+
+![lung-volumes-and-capacity.jpg](./assets/lung-volumes-and-capacity.jpg) 
+
+**Compliance** is the change in lung volume after a change in transpulmonary pressure. It's a measure of lung
+distensibility.
+
+There are 2 types of lung desease:
+- **Restrictive** (fibrosis) - the lung has low compliance (i.e. hard to inflate).
+- **Obstructive** (emphysema) - the lung has high compliance (i.e. hard to deflate) due to loss of elastic fibers.
+
+![intrapleural-fluid.jpg](./assets/intrapleural-fluid.jpg)
+
+- PA - Pip determines lung size and PA - Patm determines air flow.
+- Airway resistance increases during expiration. During forced expiration, when intrapleural pressures become positive, 
+small airways are compressed (dynamic compression) and may even collapse.
+
+**Pulmonary function tests**:
+- Forced vital capacity (FVC) - maximal volume of air exhaled after a maximal inspiration.
+- Forced expiratory volume in 1 sec (FEV1) - fraction of the total forced vital capacity expired in 1 sec. Normal 
+individuals expire approx. 80% of their vital capacity in this time.
+
+![air-replacement-during-breathing.jpg](./assets/air-replacement-during-breathing.jpg)
+
+**Oxygen (O2) transport**:
+- Alveolar PO2 is determined by the PO2 of atmospheric air, the alveolar ventilation rate, and RQ (respiratory quotient).
+- Oxygen transport is not limited by diffusion. 99% of oxygen is bound to hemoglobin.
+- Oxygen is transported in blood by binding to Hb which increases its concentration 70-fold compared to its intrinsic 
+solubility.
+
+RQ (respiratory quotient) = CO2 eliminated / O2 consumed. Can be used to know the main metabolic paths in the body.
+For Carbohydrates (require less oxygen to be fully metabolized) RQ is 1; for fats (require more oxygen to be fully
+metabolized) RQ is 0.7. 
+
+**Carbon dioxide (CO2) transport**:
+
+- 60% of CO2 is in blood as bicarbonate ion (HCO3-).
+  - H2O + CO2 = H2CO3 = HCO3- + H+.
+- 30% of CO2 is bound to hemoglobin.
+- 10% dissolved in plasma (PCO2).
+
+CO2 is very soluble in blood and needs no carrier. This difference explains why CO2 concentration in blood is
+directly proportional to minute ventilation while O2 is not. 
+
+![vq-mismatch.jpg](./assets/vq-mismatch.jpg)
+
+- Bottom part of the lung is perfused by blood more (because of gravity) and ventilated more (because lung
+are stretched less) than the top part.
+- Bottom part of the lung is perfused by blood more than it's ventilated.
+- Normal lung function requires matching ventilation to perfusion. Ventilation without perfusion is equivalent 
+to a shunt that bypasses the lungs. 
+- Intrinsic mechanisms work to match ventilation and perfusion such as hypoxic pulmonary vasoconstriction (at 
+high altitudes when pressure of O2 is low the body constricts blood vessels perfusing the lung, this increases
+the pressure so that the capillary start leaking and causes massive pulmonary edema, which can make the problem even 
+worse).
+
+Exercise is the most common cause of increased ventilation in the healthy normal individuals. At maximal exercise,
+PaCO2 falls and arterial pH falls due to metabolic acidosis.
+
+**Regulation of breathing**
+
+At rest arterial PCO2 is the most important determinant in the ventilatory drive. 
+
+The central chemoreceptors detect changes in arterial PCO2 by sending H+ concentration in the interstitial tissue. 
+
+  
 
 ## Mediators
 
