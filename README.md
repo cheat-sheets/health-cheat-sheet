@@ -9,6 +9,7 @@
   - [Cardiovascular System](#cardiovascular-system)
   - [Respiratory System](#respiratory-system)
   - [Endocrine System](#endocrine-system)
+  - [Reproductive System](#reproductive-system)
 - [Mediators](#mediators)
 - [Nutrition](#nutrition)
 - [Immune System](#immune-system)
@@ -525,6 +526,50 @@ basal energy and temperature.
   - "bonding" hormone.
   
 
+### Reproductive System
+
+**Male Reproductive System**
+
+- **Chromosomal sex** is determined by XX and XY chromosomes.
+- **Gonadal sex** is determined by expression of the SRY gene on chromosome Y (presence of testes or ovaries)
+- **Phenotypic sex** is determined by testosterone receptor gene on the X chromosome.
+
+![h-p-gonad-axis-male.png](./assets/h-p-gonad-axis-male.png)
+
+- Differentiation of germ cells as well as synthesis and secretion of sex hormones are common functions of averies and
+testes.
+- Reproduction in both males and females is controlled by pulsatile secretion of GnRH from the hypothalamus which
+controls FSH and LH secretion from the pituitary.
+- FSH and LH govern germ cell maturation and sex steroid hormone production in both males and females.
+- Sex steroid hormones regulate FSH and LH by negative feedback, and are required for fertility and secondary
+sexual physical characteristics.
+
+![testis-structure.png](./assets/testis-structure.png)
+
+Spermatogenesis occurs in testis.
+
+![sperm-production.png](./assets/sperm-production.png)
+
+- 40-80 million sperms / ml. <20 million / ml = infertile.
+- Maturation = 90 days.
+
+**Androgens** (Testosterone, DHT):
+
+- Testosterone is responsible for GnRH feedback, spermatogenesis and embryonic differentiation.
+- DHT is most important for external virilization and secondary sexual characteristics.
+- Steroids delivered by carrier in the blood. Act by changing gene expression (activate transcription).
+- Anabolic actions (promotic increased muscle mass).
+- Excess testosterone can decrease the size of the testes and decrease sperm count but will increase the size of prostate.
+
+**Androgen Dependent Tissues**:
+
+- **Seminal vesicles** - provide fructose rich liquid which is 60% of semen volume.
+- **Prostate** - alkaline secretion provides 20% of semen volume. Enlarges under influence of DHT.
+- Secondary sex traits: increased muscle mass, facial hair, deep voice.
+
+Bone expresses aromatase - converts testosterone to estrogen. Estrogen stops longitudinal growth of bones.
+
+  
 
 ## Mediators
 
