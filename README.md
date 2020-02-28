@@ -569,7 +569,26 @@ Spermatogenesis occurs in testis.
 
 Bone expresses aromatase - converts testosterone to estrogen. Estrogen stops longitudinal growth of bones.
 
-  
+**Female Reproductive System**:
+
+![h-p-gonad-axis-female.png](./assets/h-p-gonad-axis-female.png)
+
+![phases-of-the-ovary.png](./assets/phases-of-the-ovary.png)
+
+- Differentiation of germ cells as well as synthesis and secretion of sex hormones are common functions of averies and
+  testes.
+- FSH and LH govern germ cell maturation and sex steroid hormone production in both males and females.
+- As the chosen follicle matures it produces estrogen which increases its own sensitivity to LH (and FSH) and reduces the amount of FSH released by the pituitary. The reduction in FSH leads to the death of less mature follicles.
+- In females, a second group of kisspeptin neurons is responsible for the ability of estrogen to cause the LH surge.
+
+![menstual-cycle.png](./assets/menstual-cycle.png)
+
+![pregnancy-hormone-graph.png](./assets/pregnancy-hormone-graph.png)
+
+Human chorionic gonadotropin (hCG) is a hormone produced by the placenta after implantation. 
+Measured by pregnancy tests.
+
+![oral-contraceptives.png](./assets/oral-contraceptives.png)
 
 ## Mediators
 
