@@ -4,10 +4,11 @@
 
 - [Physiology](#physiology)
   - [Homeostasis](#homeostasis)
-  - [The Nervous System](#the-nervous-system)
+  - [Nervous System](#the-nervous-system)
   - [Muscle](#muscle)
   - [Cardiovascular System](#cardiovascular-system)
   - [Respiratory System](#respiratory-system)
+  - [Endocrine System](#endocrine-system)
 - [Mediators](#mediators)
 - [Nutrition](#nutrition)
 - [Immune System](#immune-system)
@@ -459,7 +460,61 @@ At rest arterial PCO2 is the most important determinant in the ventilatory drive
 
 The central chemoreceptors detect changes in arterial PCO2 by sending H+ concentration in the interstitial tissue. 
 
+### Endocrine System
+
+**Hypothalamus** is a portion of the brain, it integrates afferent signals from the brain, viscera, and circulating 
+levels of substrates and hormones. 
+**Pituitary** is an endocrine gland inside the brain. Together they 
+regulate energy and water balances, growth, responses to stress, and reproduction in the body.
+
+The pituitary gland is divided into anterior and posterior parts. Anterior pituitary consists of glandular tissue,
+posterior pituitary consists of neural tissue. 
+
+**Anterior Pituitary** hormones:
+
+Hypothalamus | Anterior Pituitary | Target organ
+-------------|-----------|---------------
+CRH (Corticotropin-releasing hormone) | ACTH (Adrenocorticotropic Hormone) | Adrenal gland
+TRH (Thyrotropin-releasing hormone) | TSH (Thyroid stimulating hormone) | Thyroid gland
+GnRH (Gonadotropin-releasing hormone) | LH (Luteinizing Hormone) & FSH (Follicle-stimulating hormone) | Gonads
+GHRH (Growth hormone–releasing hormone) & GHIH (growth hormone-inhibiting hormone) aka Somatostatin | Growth Hormone | Liver & bone
+ - | Prolactin | Breast
+ 
+**Adrenal Gland**:
+
+- Cortex:
+  - **Aldosterone** (controls salt balances in the body; not controlled by HP axis, produced when K+ increases in blood,
+  causes kidneys to return Na+ and water from urine to blood and excrete  K+)
+  - **Cortisol**
+    - controls sugar balances in the body
+    - regulated by HP axis; peaks at 8AM
+    - provides fuel 
+    - promotes growth of "beer belly fat"
+    - is anti-inflammatory and suppresses immune response
+    - degrades fat, muscle and peripheral fat
+    - Inhibits growth hormone, thyroid hormone, insulin and sex hormones at target tissues. 
+  - DHEA (weak androgen)
+- Medulla
+  - Epinephrine
+  - Norepinephrine
   
+**Thyroid Gland**:
+
+- 
+  
+![metabolism-in-stress.jpg](./assets/metabolism-in-stress.jpg)
+
+**Posterior Pituitary** hormones:
+
+- **Vasopressin** (ADH, antidiuretic hormone) - regulated by osmotic and volume stimuli:
+(1) rise in plasma osmolarity (plasma Na)
+(2) derease of ~10% or more in blood volume)
+  - acts in kidney to move water from filtrate (urine) to blood to increase blood volume.   
+- **Oxytocin** (OTC) - regulated by suckling and cry of infant.
+  - increases contraction of myoepithelial cells in breast and smooth muscle in uterus.
+  - "bonding" hormone.
+  
+
 
 ## Mediators
 
