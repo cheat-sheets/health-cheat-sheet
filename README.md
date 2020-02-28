@@ -500,7 +500,17 @@ GHRH (Growth hormone–releasing hormone) & GHIH (growth hormone-inhibiting horm
   
 **Thyroid Gland**:
 
-- 
+- T3 and T4 are synthesized and secreted by the thyroid gland in response to TSH.
+- Thyroid hormones are formed from the hydrolysis of iodinated thyroglobulin.
+- Dietary iodine is essential for the hormone synthesis.
+- Thyroid hormones are essential for the development of the nervous system, for normal body growth and to regulate
+basal energy and temperature.
+
+![h-p-thyroid-axis.png](./assets/h-p-thyroid-axis.png)
+
+![thyroid-hormones-during-fasting.png](./assets/thyroid-hormones-during-fasting.png)
+
+**Metabolism in Stress**:
   
 ![metabolism-in-stress.jpg](./assets/metabolism-in-stress.jpg)
 
