@@ -212,6 +212,12 @@ relaxation of antagonistic muscle.
 Walking movements are initiated by central pattern generators in the spinal cord. Interneurons coordinately drive 
 antagonistic muscles in withdrawal and crossed-extensor reflexes and can be modified by sensory feedback. 
 
+**Sympathetic and Parasympathetic Nervous System**
+
+![sympathetic-parasympathetic-ns.jpg](./assets/sympathetic-parasympathentic-ns.jpg)
+
+![sympathetic-parasympathetic-ns-2.png](./assets/sympathentic-parasympathentic-ns-2.png)
+
 ### Muscle
 
 ![sarcomere.jpg](./assets/sarcomere.jpg)
