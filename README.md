@@ -10,6 +10,7 @@
   - [Respiratory System](#respiratory-system)
   - [Endocrine System](#endocrine-system)
   - [Reproductive System](#reproductive-system)
+  - [Gastrointestinal System](#gastrointestinal-system)
 - [Mediators](#mediators)
 - [Nutrition](#nutrition)
 - [Immune System](#immune-system)
@@ -595,6 +596,34 @@ Human chorionic gonadotropin (hCG) is a hormone produced by the placenta after i
 Measured by pregnancy tests.
 
 ![oral-contraceptives.png](./assets/oral-contraceptives.png)
+
+## Gastrointestinal System
+
+### Motility
+
+**Enterogastric reflex** - a nervous reflex whereby stretching of the wall of the duodenum results in inhibition of 
+gastric motility and reduced rate of emptying of the stomach. It is a feedback mechanism to regulate the rate at 
+which partially digested food (chyme) leaves the stomach and enters the small intestine.
+
+**Gastroileal reflex** is stimulated by the presence of food in the stomach and gastric peristalsis. 
+Initiation of the reflex causes peristalsis in the ileum and the opening of the ileocecal valve 
+(which allows the emptying of the ileal contents into the large intestine, or colon). 
+This in turn stimulates colonic peristalsis and an urge to defecate.
+
+**Gastrocolic reflex** - a physiological reflex that controls the motility, or peristalsis, 
+of the gastrointestinal tract following a meal. The gastrocolic reflex's function in driving existing intestinal 
+contents through the digestive system helps make way for ingested food.
+
+**Migrating Motor Complex (MMC)** - waves of electrical activity that sweep through the intestines 
+in a regular cycle during fasting. The MMC occurs every 90-230 minutes during the interdigestive phase 
+(i.e., between meals) and is responsible for the rumbling experienced when hungry.
+
+![stomach-motility.png](./assets/stomach-motility.png)
+
+### Videos
+
+- Peristaltic Wave in the Gastric Antrum: https://www.youtube.com/watch?v=o18UycWRsaA
+- Intestinal peristalsis: https://www.youtube.com/watch?v=hKQ8eFpUKLs
 
 ## Mediators
 
