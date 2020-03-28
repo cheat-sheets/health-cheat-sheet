@@ -14,6 +14,8 @@
 - [Mediators](#mediators)
 - [Nutrition](#nutrition)
 - [Immune System](#immune-system)
+- [The Science of Well Being](#the-science-of-well-being)
+- [Infectious Desease](#infectious-desease)
 
 ## Physiology
 
@@ -784,6 +786,62 @@ WOOP (Wish, Outcome, Obstacle, Plan) - aka MCII (mental contrasting with impleme
 
 Coursera course: https://www.coursera.org/learn/the-science-of-well-being
 
+## Infectious Desease
+
+Top infectious desease by number of deaths in 2002:
+
+https://en.wikipedia.org/wiki/Infection#Epidemiology
+
+| Rank | Cause of death (in millions) | Deaths 2002 | Percentage of all deaths
+|---|---|---|---|
+|N/A | All infectious diseases | 14.7 | 25.9%
+1 | **Lower respiratory infections** | 3.9 | 6.9% 
+2 | **HIV/AIDS** | 2.8 | 4.9% 
+3 | **Diarrheal diseases** | 1.8 | 3.2% 
+4 | **Tuberculosis (TB)** | 1.6 | 2.7% 
+5 | **Malaria** | 1.3 | 2.2% 
+6 | **Measles** | 0.6 | 1.1% 
+7 | **Pertussis** | 0.29 | 0.5% 
+8 | **Tetanus** | 0.21 | 0.4%
+9 | **Meningitis** | 0.17 | 0.3%
+10 | **Syphilis** | 0.16 | 0.3%
+11 | **Hepatitis B** | 0.10 | 0.2%
+12-17 | **Tropical diseases** | 0.13 | 0.2%
+
+- **Smallpox (оспа)** - viral desease. 
+  - Symptoms: fever, vomiting, skin sores, skin rash. 
+  - Fatality rate: 30% for variola major, 1% for variola minor. 
+  Was the first virus that was eradicated through vaccination (cowpox is milder version but causes immunity against 
+  smallpox (cow in latin is vacca)
+
+- **Measles (корь)** - viral desease. Incubation period: 10-12 days, symptoms last 7-10 days. 
+  - Symptoms: fever, cough, runny nose, inflamed eyes, red flat rash starts on the face and then spreads to the 
+  rest of the body.
+
+- **Polio (полиомиелит)** - viral desease. 
+  - Symptoms: in about 0.5 percent of cases, there is muscle weakness (usually in legs) resulting in an inability to move. 
+
+- **Whooping_cough / pertussis (коклюш)** - bacterial desease. 
+  - Symptoms: initially like common cold, followed by weeks of severe coughing fits. 
+
+- **Norovirus (stomach flu)**
+
+- **Salmonella**
+
+- **Common Cold** - viral desease (may be cause by 200 virus strains most common rhinoviruses). 
+
+- **Typhoid fever** - bacterial desease caused by a type of salmonella bacteria. Often there is a gradual onset of a high fever over several days. This is commonly accompanied by weakness, abdominal pain, constipation, headaches, and mild vomiting. Some people develop a skin rash with rose colored spots.
+
+- **Tetanus (столбняк)** - 
+
+
+Notes:
+- Typhoid Mary https://en.wikipedia.org/wiki/Mary_Mallon#Investigation
+- List of human deseases ordered by case fatality rate 
+  https://en.wikipedia.org/wiki/List_of_human_disease_case_fatality_rates
+- Google Flu Trends - a service built by Google that predicts Flu outbreaks using Google searches:
+  https://en.wikipedia.org/wiki/Google_Flu_Trends. Shutdown in 2015.
+
 ## Misc
 
 Sauna increases growth hormone in the blood https://www.ncbi.nlm.nih.gov/pubmed/3218898
@@ -796,3 +854,6 @@ Exercise seems to play a key role on expression of the Clotho gene https://www.n
 
 - The Science of Well-Being Coursera course: https://www.coursera.org/learn/the-science-of-well-being
 - The basics of immune system in Russian: https://www.youtube.com/watch?v=tJXk2zDomWk
+- Introductory Human Physiology https://www.coursera.org/learn/physiology
+- Epidemics - the Dynamics of Infectious Diseases https://www.coursera.org/learn/epidemics
+- Ninja Nerd Science https://www.youtube.com/channel/UC6QYFutt9cluQ3uSM963_KQ/playlists?view=50&sort=dd&shelf_id=2
