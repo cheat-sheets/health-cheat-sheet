@@ -808,31 +808,58 @@ https://en.wikipedia.org/wiki/Infection#Epidemiology
 11 | **Hepatitis B** | 0.10 | 0.2%
 12-17 | **Tropical diseases** | 0.13 | 0.2%
 
-- **Smallpox (оспа)** - viral desease. 
+- **Tuberculosis** - a bacterial desease caused by Mycobacterium tuberculosis. 
+  - Symptoms: chronic cough, fever, cough with bloody mucus, weight loss.
+  - Prevention: vaccination with bacillus Calmette-Guérin (BCG). The immunity induced by the vaccine decreases after
+  about 10 years. 
+  - Frequency: 25% of people (latent TB), 10 million active TB.
+  - Deaths: 1.5 million. 
+  
+- **Smallpox (оспа)** - a viral desease. The first viral desease eradicated from the population by using vaccination.
   - Symptoms: fever, vomiting, skin sores, skin rash. 
-  - Fatality rate: 30% for variola major, 1% for variola minor. 
+  - Mortality rate: 30% for variola major, 1% for variola minor. 
   Was the first virus that was eradicated through vaccination (cowpox is milder version but causes immunity against 
-  smallpox (cow in latin is vacca)
+  smallpox (cow in latin is **vacca**))
 
-- **Measles (корь)** - viral desease. Incubation period: 10-12 days, symptoms last 7-10 days. 
+- **Measles (корь)** - a viral desease. Incubation period: 10-12 days, symptoms last 7-10 days. 
   - Symptoms: fever, cough, runny nose, inflamed eyes, red flat rash starts on the face and then spreads to the 
   rest of the body.
 
-- **Polio (полиомиелит)** - viral desease. 
+- **Polio (полиомиелит)** - a viral desease. 
   - Symptoms: in about 0.5 percent of cases, there is muscle weakness (usually in legs) resulting in an inability to move. 
 
-- **Whooping_cough / pertussis (коклюш)** - bacterial desease. 
+- **Whooping_cough / pertussis (коклюш)** - a bacterial desease. 
   - Symptoms: initially like common cold, followed by weeks of severe coughing fits. 
 
-- **Norovirus (stomach flu)**
+- **Norovirus (stomach flu)** - a viral desease.
+  - Symptoms:  diarrhea, vomiting, stomach pain. Fever or headaches may also occur. Symptoms start 12 - 48 hours after
+  exposure, last for 1 to 3 days.
+  - Fatality rate: 0.02%.
 
-- **Salmonella**
+- **Salmonellosis** - a bacterial desease.
+  - Symptoms: diarrhea, fever, abdominal cramps, vomiting.
+  - Onset: 0.5-3 days after exposure. 
+  - Duration: 4-7 days.
+  - Mortality rate: <1%, depends on the country.
+  
+- **Typhoid fever** - bacterial desease caused by a type of salmonella bacteria. Often there is a gradual onset of a 
+high fever over several days. This is commonly accompanied by weakness, abdominal pain, constipation, headaches, 
+and mild vomiting. Some people develop a skin rash with rose colored spots.
 
-- **Common Cold** - viral desease (may be cause by 200 virus strains most common rhinoviruses). 
+- **Common Cold** - viral desease (may be caused by 200 virus strains, most common rhinoviruses).
+  - Symptoms: Cough, sore throat, runny nose, fever.
+  - Onset: ~2 days from exposure.
+  - Duration: 1-3 weeks.  
 
-- **Typhoid fever** - bacterial desease caused by a type of salmonella bacteria. Often there is a gradual onset of a high fever over several days. This is commonly accompanied by weakness, abdominal pain, constipation, headaches, and mild vomiting. Some people develop a skin rash with rose colored spots.
+- **Tetanus (столбняк)** - a bacterial desease.
+  - Symptoms: Muscle spasms, fever, headache.
+  - Mortality rate: 10%. 
 
-- **Tetanus (столбняк)** - 
+- **Diphtheria** - a bacterial desease.
+  - Sore throat, fever, barky cough.
+  - Onset: 2–5 days after exposure.
+  - Frequency: 4,500 (reported 2015).
+  - Deaths: 2,100 (2015).
 
 
 Notes:
