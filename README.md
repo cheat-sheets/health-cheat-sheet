@@ -679,11 +679,18 @@ The 5 basic tastes help us identify nutrients in the food that are important for
 
 - **Sweet** - sugar, source of energy.
 - **Salty** - salt, important for maintaining ion balance - potassium/sodium.
-- **Sour** - acid, important for maintaining pH balance.
+- **Sour** - acid, important for maintaining pH balance. The taste of acids from spoilage.
 - **Bitter** - many bitter compounds are bitter and toxic. 
     Some antioxidants are bitter and healthy e.g. chocolate, coffee.
 - **Umami** - glutamate, contained in protein food, source of building material for cells in our body.
 
+### Notes
+
+- Sodium nitrate is used to prevent meat from turning brown (oxidizing).
+- Collagen becomes softer under temperature above 60 degrees. Younger animals have more collagen in their meet that's
+why their meet is more succulent after cooking. Fish tail has more collagen than the middle part.
+- Frozen meet is drier after cooking because the water trapped in protein breaks its structure and will escape after 
+the meet is thawed. 
 
 ## Immune System
 
@@ -868,6 +875,7 @@ Notes:
   https://en.wikipedia.org/wiki/List_of_human_disease_case_fatality_rates
 - Google Flu Trends - a service built by Google that predicts Flu outbreaks using Google searches:
   https://en.wikipedia.org/wiki/Google_Flu_Trends. Shutdown in 2015.
+- Top 10 causes of death https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death.
 
 ## Misc
 
@@ -875,7 +883,7 @@ Sauna increases growth hormone in the blood https://www.ncbi.nlm.nih.gov/pubmed/
 
 Klotho is an enzyme that in humans is encoded by the KL gene. 
 It appears to be involved in ageing. 
-Exercise seems to play a key role on expression of the Clotho gene https://www.ncbi.nlm.nih.gov/pubmed/29962352
+Exercise seems to play a key role on expression of the Klotho gene https://www.ncbi.nlm.nih.gov/pubmed/29962352
 
 # Resources
 
