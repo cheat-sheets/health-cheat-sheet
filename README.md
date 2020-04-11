@@ -13,6 +13,7 @@
   - [Gastrointestinal System](#gastrointestinal-system)
 - [Mediators](#mediators)
 - [Nutrition](#nutrition)
+  - [The Science of Nutrition](#1-the-science-of-nutrition)
 - [Immune System](#immune-system)
 - [The Science of Well Being](#the-science-of-well-being)
 - [Infectious Desease](#infectious-desease)
@@ -626,6 +627,7 @@ in a regular cycle during fasting. The MMC occurs every 90-230 minutes during th
 
 - Peristaltic Wave in the Gastric Antrum: https://www.youtube.com/watch?v=o18UycWRsaA
 - Intestinal peristalsis: https://www.youtube.com/watch?v=hKQ8eFpUKLs
+- Villi of small intestine: https://www.youtube.com/watch?v=SDbjwMS_1vI
 
 ## Mediators
 
@@ -672,6 +674,94 @@ https://www.ncbi.nlm.nih.gov/pubmed/11958969
 https://www.nutritionsteps.org/
 
 https://www.youtube.com/channel/UCxtgzInwVobygfSimD7N6Ug
+
+### 1. The Science of Nutrition
+
+- **Correlation doesn't mean causation**. 
+    - In Greece researches observed that there very high consumption of **olive oil** and a very low incidence of 
+    **cardiovascular desease**. 
+    - This doesn't necessarily prove the olive oil prevents cardiovascular desease.
+    - No, it's possible that a lot of **sun** in Greece causes a lot of olives and high olive oil consumption, and
+    a lot of sun makes a lot of vitamin D in the skin which protects them from cardiovascular desease.
+
+- **Epidemiological evidence**. 
+    - Outcomes of a large number of real-life cases and controls, chosen with appropriate and 
+    objective criteria, in large enough number. 
+    - The major problem is the presence of **confounding factors**. 
+    - For example, **vegans** have lower rates of **heart desease**. But vegans are usually more healthy in other 
+    aspects of life-style, e.g. they have a balanced diet, avoid smoking etc. Thus we can't conclude that avoiding meat 
+    prevents heart desease.
+
+- **You can always find evidence supporting your hypothesis**. 
+    - There are two books based on scientific evidence that suggest opposing  ideas: 
+    - **The China Study** - suggests avoiding meat is good for health.
+    - **The Paleo Diet** - suggests eating meat is good for health.
+    
+- **Risk assessment**. 
+    - Some people are afraid to eat unpealed fruits because of pesticides and other chemicals used in production of those.
+    While at the same time eating a lot of saturated fats. The risks associated with eating a lot of saturated fats
+    are much higher.
+
+**Key Principles of Nutrition**:
+- Principle of **variety** - the more monotonous our diet is, the higher the risk of nutrient deficiencies or imbalances.
+- Principle of **moderation** - we should eat small portions of many different foods.
+- Principle of **balance** - our choice of foods should ensure a healthy proportion of all the different nutrients 
+that we need.
+
+- **Common deficiencies**:
+    - Deficiency of **Vitamin C** (ascorbic acid, present in oranges, sourkraut) causes **scurvy**.
+    - Deficiency of  **Vitamin B-1** (thiamin, present in the external layer of rice) causes **beriberi**. 
+    - Deficiency of  **Vitamin B-3** (niasin, present in corn cooked in alcaline solutions like tortillas) causes **pellagra**.
+    
+**6 categories of nutrients** (lack of these causes desease or death):
+    - Carbohydrates
+    - Proteins
+    - Lipids
+    - Vitamins
+    - Minerals
+    - Water
+    
+**Non-nutrient bioactives**:
+    - fiber, plant sterols, phytochemicals (polyphenols, carotenoids, isothyocyanates)
+    
+**Function of nutrients**:
+    - Energetic
+    - Structural
+    - Regulatory
+    
+**DRIs (Dietary Reference Intakes)**
+    - **RDA (Recommended Daily Allowance)** - average daily intake of a particular nutrient that meets the needs of 98%
+    of the population.
+    - **AI (Adequate Intake)** - if RDA can't be set due to insufficient data AI is used.
+    - **UL (Tolerable Upper Intake Level)** - intake that should not be exceeded.
+    - **DV (Daily Value)** - percentage of the recommended daily intake, set by FDA.
+    
+**AMDR (Acceptable Macronutrient Distribution Ranges)**:
+    - 45% - 65% of energy from carbohydrates 
+    - 20% - 35% of energy from fats 
+    - 10% - 35% of energy from proteins 
+
+**Food groups**:
+- Plant Food
+    - Fruits
+    - Vegetables
+    - Nuts & seeds
+    - Legumes
+    - Grains
+- Not plants but not animal:
+    - Mushrooms
+    - Seaweed
+Animal Food
+    - Meat
+    - Fish	
+    - Milk & Dairy
+    - Eggs
+
+- For 4 million years our genes where honed for hunter-gatherer life-style.
+    - They mostly ate fruits, vegetables, meat and fish.
+    - The food was scarce. 
+- Only 10,000 years ago agricultural revolution happened.
+- Only 300 years ago industrial revolution happened.  
 
 ### The 5 basic tastes
 
