@@ -13,7 +13,9 @@
   - [Gastrointestinal System](#gastrointestinal-system)
 - [Mediators](#mediators)
 - [Nutrition](#nutrition)
-  - [The Science of Nutrition](#1-the-science-of-nutrition)
+  - [1. The Science of Nutrition](#1-the-science-of-nutrition)
+  - [2. Eating Behaviour](#2-eating-behaviour)
+  - [3. Energy Balance](#3-energy-balance)
 - [Immune System](#immune-system)
 - [The Science of Well Being](#the-science-of-well-being)
 - [Infectious Desease](#infectious-desease)
@@ -762,6 +764,59 @@ Animal Food
     - The food was scarce. 
 - Only 10,000 years ago agricultural revolution happened.
 - Only 300 years ago industrial revolution happened.  
+
+### 2. Eating Behaviour
+
+**Effect of nutrients on satiation (насыщенность)  and satiety (сытость)**
+
+| * | Short term effect (Satiation) | Long term effect (Satiety)
+---|---|---
+Fiber | +++ | +
+Lipids | + | +++
+Carbs | ++ | +
+Proteins | +++ | +++
+
+**Leptin** - hormone released by adipose tissue
+  - decreases hunger
+  - its variations regulate hunger in the longer term
+  - homeostatic regulation.
+  
+### 3. Energy Balance
+
+1 kcal = 4,186 kJ - amount of heat required to raise the temperature of 1 kg of water by 1 degree Celcius.
+1 cal in nutrition is equal 1 kcal from physics :(
+
+**Energy for each nutrient**:
+-  4 kcal per 1g of carbohydrates.
+-  4 kcal per 1g of Proteins.
+-  9 kcal per 1g of Fats.
+
+Human body spends energy on:
+- Basal metabolism. 
+    - 60% - 70% of total spent energy for a sedentary person.
+    - Muscle requires more energy so people with higher muscle mass in the body have higher basal metabolic rate.
+    - Taller people have higher metabolic rate because of larger body surface area.
+    - Too high or too low environmental temperature increases basal metabolic rate.
+    - Stress increases basal metabolic rate.
+    - Thyroid hormones increase basal metabolic rate.
+    - Thermogenic substances (nicotin, alcohole, caffein) increase basal metabolic rate.
+- Physical activity.
+- TEF (Thermic Effect of Food) - the energy required to digest nutrients. 4, 4 and 9 kcal for carbs, proteins and fats
+  are already adjusted for TEF.
+  
+**Energy spent during exercise**:
+- Heavy weight lifting for 30 mins - 300 kcal.
+- Brisk walking for 30 mins - 150 kcal.
+- Watching TV for 30 mins - 45 kcal.
+
+Harris-Benedict formula for BMR:
+- For men: BMR = (10 × weight in kg) + (6.25 × height in cm) - (5 × age in years) + 5
+- For women: BMR = (10 × weight in kg) + (6.25 × height in cm) - (5 × age in years) - 161
+
+To calculate total energy expenditure multiple BMR by PAL (physical activity level):
+- Sedentary or light activity. Ex: Office worker getting little or no exercise: BMR x 1.53
+- Active or moderately active. Ex: Construction worker or person running one hour daily: BMR x 1.76
+- Vigorously active. Ex: Agricultural worker (non mechanized) or person swimming two hours daily: BMR x 2.25
 
 ### The 5 basic tastes
 
