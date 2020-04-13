@@ -16,6 +16,7 @@
   - [1. The Science of Nutrition](#1-the-science-of-nutrition)
   - [2. Eating Behaviour](#2-eating-behaviour)
   - [3. Energy Balance](#3-energy-balance)
+  - [4. Carbohydrates and Fiber](#4-carbohydrates-and-fiber)
 - [Immune System](#immune-system)
 - [The Science of Well Being](#the-science-of-well-being)
 - [Infectious Desease](#infectious-desease)
@@ -817,6 +818,89 @@ To calculate total energy expenditure multiple BMR by PAL (physical activity lev
 - Sedentary or light activity. Ex: Office worker getting little or no exercise: BMR x 1.53
 - Active or moderately active. Ex: Construction worker or person running one hour daily: BMR x 1.76
 - Vigorously active. Ex: Agricultural worker (non mechanized) or person swimming two hours daily: BMR x 2.25
+
+### 4. Carbohydrates and Fiber
+
+- Monosaccharides
+    - Glucose
+    - Fructose
+    - Galactose
+- Disaccharides
+    - Surose (glucose + fructose)
+    - Lactose (glucose + galactose)
+    - Maltose (glucose + glucose)
+- Polysaccharides
+    - Amilose
+    - Amilopectin
+    - Glycogen (energy storage in animals)
+    
+Humans store a few hundred grams of glucose, mostly in liver and muscle cells.
+
+**Hormones**:
+- **Insulin** lowers blood glucose when it's too high.
+    - Is also an anabolic hormone, allows us to store any excess energy coming from food: 
+    glucose to glycogen, what's left to fat.
+    - Promotes cholesterol synthesis in our liver.
+    - Causes water retention and raises blood pressure.
+    - Slows down secretion of growth hormone.
+    - **Long-term effects of frequent excessive insulin peaks**:
+        - **Insulin resistance**
+        - **Hyperinsulinemia**
+        - **Type II diabetes** (high blood sugar, insulin resistance, and relative lack of insulin) - adult-onset diabetes. 
+- **Glucagon** raises blood glucose when it's too low.
+
+**Glycemic Index** - measures the speed at which carbs contained in a food raise blood glucose. The way it's calculated
+is first you measure glucose level in the blood for 2 hours after taking 50g of glucose, measure area under the curve, 
+measure glucose level in the blood for 2 hours after taking the amount of food with 50g of carbs in it, measure
+area under the curve. Divide 2nd area by the 1st area and multiply by 100 to get the Glycemic index.
+
+![glycemic-index.png](./assets/glycemic-index.png)
+
+- Glucose - GI = 100
+- White french baguette - GI = 95
+- Table Sugar - GI = 68
+- Boiled Potato - GI = 63
+- Banana - GI = 52
+- Mango - GI = 51
+- Fructose - GI = 19
+- Cabbage - GI = 10
+
+Sorbitol, mannitol, xylitol provide about 2 kcal/g, don't promote tooth decay.
+
+**Non-caloric sweeteners**:
+- Saccharin
+- Aspartame
+- Acesulfame-K
+- Sucralose
+- Neotame
+- Tagatose
+
+
+**Glycemic Load** - Glycemic Index * Carb Content (g) / 100.  
+
+**Grain's anatomy**:
+
+![grains-anatomy.png](./assets/grains-anatomy.png)
+
+- **Soluble fiber**:
+    - Dissolves in water
+    - Form a gummy gel in water
+    - Makes stool larger and softer.
+    - In large amounts has laxative effect.
+    - Is **fermented** by gut bacteria. Fermentation products (vitamins, short chain fatty acids) can be absorbed and
+    have positive effects.
+- **Insoluble fiber**:
+    - Does not dissolve in water
+    - Is **not fermented** by gut bacteria.
+    - Accelerates the transit of stool.
+    
+Fiber RDA: **38g** (adult men), **25g** (women).
+
+**Fiber**:
+- Whole grains, vegetables, skin of fruit: mostly **insoluble** fiber.
+- Pulp of fruit, seaweeds: mostly **soluble** fiber.
+- Legumes, nuts, seeds: both **soluble** and **insoluble** fiber.
+- Milk, fish, eggs, dairy: **no** significant amount of fiber.
 
 ### The 5 basic tastes
 
