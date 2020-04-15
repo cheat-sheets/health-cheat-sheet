@@ -17,6 +17,7 @@
   - [2. Eating Behaviour](#2-eating-behaviour)
   - [3. Energy Balance](#3-energy-balance)
   - [4. Carbohydrates and Fiber](#4-carbohydrates-and-fiber)
+  - [5. Lipids](#5-lipids)
 - [Immune System](#immune-system)
 - [The Science of Well Being](#the-science-of-well-being)
 - [Infectious Desease](#infectious-desease)
@@ -901,6 +902,102 @@ Fiber RDA: **38g** (adult men), **25g** (women).
 - Pulp of fruit, seaweeds: mostly **soluble** fiber.
 - Legumes, nuts, seeds: both **soluble** and **insoluble** fiber.
 - Milk, fish, eggs, dairy: **no** significant amount of fiber.
+
+### 5. Lipids
+
+**Lipids** - organic biomolecules that do not readily dissolve in water (hydrophobic).
+
+Main Lipid Classes:
+- **Triglycerides**
+- **Phospholipids**
+- **Sterols**
+    - **Cholesterol**
+    - **Plant sterols**
+    
+**Fatty acids** - key components of triglycerides and phospholipids, and often bound to sterols. 
+
+**Seven countries study** - 1960 - 1970, Ancel Keys observed a positive correlation between high dietary lipids,
+obesity and CVD.
+
+**The Crete Paradox** - extremely high fat consumption (>40% of total energy) but low incidence of cardiovascular desease.
+Might be because they consume less than 10% came from saturated fats and eat a lot of fruits and vegetables.
+
+**The Eskimo Case** - more than 70% of energy from fats but they are perfectly healthy.  
+
+**The French Paradox** - saturated fat and cholesterol consumption same as in the US, but CVD rates are lower. 
+Is it because the French drink a lot of wine? No. The french are eating a lot of fruits, vegetables, legumes, grains.
+
+**Triglycerides** 
+- are the main energy storage in our body. Excess carbs and proteins are converted to lipids and
+stored in the adipose tissue, but there's no way back.
+- are the main fuel for heart muscle but brain and red blood cells can't use it for energy (they use carbs instead).
+- protective cusion and body insulation.
+- absorption of fat-soluble vitamins and carotenoids.
+- satiety.
+
+![triglycerids.png](./assets/triglycerids.png)
+
+**Fatty acids** - main building blocks of lipids.
+- saturated.
+- monounsaturated. 
+- polyunsaturated.
+
+Common fatty acids:
+
+![common-fatty-acids.png](./assets/common-fatty-acids.png)
+
+![saturated-fats-and-cardiovascular-risk.png](./assets/saturated-fats-and-cardiovascular-risk.png)
+
+![sources-of-saturated-fats.png](./assets/sources-of-saturated-fats.png)
+
+Monounsaturated fatty acids:
+
+![monounsaturated-fatty-acid.png](./assets/monounsaturated-fatty-acid.png)
+
+Trans fatty acids (hard same as saturated fatty acids):
+
+![trans-fatty-acids.png](./assets/trans-fatty-acids.png)
+
+Polyunsaturated fatty acids (the first unsaturated bond is 6 or 3 carbon atoms away from the end of the molecule):
+
+![polyunsaturated-fatty-acids.png](./assets/polyunsaturated-fatty-acids.png)
+
+- **SFA**. Mainly found in food of **animal** origin. Many of SFA are atherogenic so excess of it in our diet is detrimental.
+- **MUFA**:
+    - **Oleic** acid, **omega-9** family. Contained in **olive oil**, **peanuts**, **avocado**, **macadamia**, **canola oil**.
+- **PUFA**. There are 2 essential fatty acids:
+    - **Linoleic**, **omega-6** family. Contained in **nuts and seeds** in general, 
+    most vegetable oils (**corn oil**, **sunflower oil**).
+    - **Linolenic**, **omega-3** family. **Alpha-linolenic acid** is an essential fatty acid for humans. 
+      All other **omega-3** acids can be derived from linolenic, however this conversion is slow, 
+      therefore direct **EPA** (eicosapentaenoic acid) and **DHA** (docosahexaenoic acid) intake from food is advisable.
+        - **Alpha-linolenic acid**. Contained in **walnuts**, **soy**, **soy oil**, **portulaca**, **flax seeds**, **flaxseed oil** (rancidity!).
+        - **EPA** and **DHA**. Contained in **fatty fish** (salmon, sardine, tuna), **shellfish**, 
+        **crab**, **shrimp**, **lobster**.
+        
+**Oxidized/rancid** PUFA are very bad for our health - highly cancirogenic and atherogenic. Should store PUFA in fridge,
+away from light sources, never fry in PUFA.
+    
+**Omega-3 vs Omega-6** balance:
+
+| Omega-3 (salmon, sardines, walnuts, flax seeds) | Omega-6 (nuts and seeds, corn, sunflower oil) 
+|---|---|
+|Blood fluidity | Platelet aggregation 
+Vasodilation | Vasoconstriction
+Immunosuppression | Immunity 
+Anti-inflammatory | Pro-inflammatory 
+Pain inhibition | Pain transmission 
+Inhibit cell proliferation | Cell proliferation 
+Less stomach secretion | More stomach secretion 
+
+**Fat proportion for good health**:
+- 20-35% of total energy should come from lipids.
+    - < 10% from SFA.
+    - 10-20% from PUFA:
+        - omega-3 to omega-6 proportion should be 1:2 to 1:4.
+    - remaining is MUFA>
+    - no trans fats.
+
 
 ### The 5 basic tastes
 
