@@ -681,6 +681,8 @@ https://www.youtube.com/channel/UCxtgzInwVobygfSimD7N6Ug
 
 ### 1. The Science of Nutrition
 
+https://www.youtube.com/watch?v=__q5nHfro7g&list=PL3IIVyZl0FANpdFMnN2PCN1lWmlyr6lKs
+
 - **Correlation doesn't mean causation**. 
     - In Greece researches observed that there very high consumption of **olive oil** and a very low incidence of 
     **cardiovascular desease**. 
@@ -769,6 +771,8 @@ Animal Food
 
 ### 2. Eating Behaviour
 
+https://www.youtube.com/watch?v=KWv5ROe8lZQ&list=PL3IIVyZl0FANAKJSNQQjvLbTz4Pa8oJPY
+
 **Effect of nutrients on satiation (насыщенность)  and satiety (сытость)**
 
 | * | Short term effect (Satiation) | Long term effect (Satiety)
@@ -784,6 +788,8 @@ Proteins | +++ | +++
   - homeostatic regulation.
   
 ### 3. Energy Balance
+
+https://www.youtube.com/watch?v=URAJzOjYjDo&list=PL3IIVyZl0FAN8g3S-oGv0uRn3IOwmDi50
 
 1 kcal = 4,186 kJ - amount of heat required to raise the temperature of 1 kg of water by 1 degree Celcius.
 1 cal in nutrition is equal 1 kcal from physics :(
@@ -821,6 +827,8 @@ To calculate total energy expenditure multiple BMR by PAL (physical activity lev
 - Vigorously active. Ex: Agricultural worker (non mechanized) or person swimming two hours daily: BMR x 2.25
 
 ### 4. Carbohydrates and Fiber
+
+https://www.youtube.com/watch?v=hFMF3lJUcAc&list=PL3IIVyZl0FAMJYbvSa8AV3puK6FvKdEL1
 
 - Monosaccharides
     - Glucose
@@ -905,6 +913,8 @@ Fiber RDA: **38g** (adult men), **25g** (women).
 
 ### 5. Lipids
 
+https://www.youtube.com/watch?v=NUs_aXPtitc&list=PL3IIVyZl0FANkAvQjBBbRdnJ_fGGV3pwM
+
 **Lipids** - organic biomolecules that do not readily dissolve in water (hydrophobic).
 
 Main Lipid Classes:
@@ -980,7 +990,7 @@ away from light sources, never fry in PUFA.
     
 **Omega-3 vs Omega-6** balance:
 
-| Omega-3 (salmon, sardines, walnuts, flax seeds) | Omega-6 (nuts and seeds, corn, sunflower oil) 
+| Omega-3 (salmon, sardines, walnuts, flax seeds) | Omega-6 (nuts and seeds, corn oil, sunflower oil) 
 |---|---|
 |Blood fluidity | Platelet aggregation 
 Vasodilation | Vasoconstriction
@@ -997,6 +1007,75 @@ Less stomach secretion | More stomach secretion
         - omega-3 to omega-6 proportion should be 1:2 to 1:4.
     - remaining is MUFA>
     - no trans fats.
+
+### 6. Proteins
+
+https://www.youtube.com/watch?v=1Caojyxhn2A&list=PL3IIVyZl0FANZrS-BUb7fmLwhKwpyOMDa
+
+- 62% of our body weight is water, 17% is protein.
+- Have the key regulatory function: hormones, enzymes, carriers, signalling, antibodies.
+- Energy: 4 kcal/g.
+
+![aminoacid-structure.png](./assets/aminoacid-structure.png)
+
+Proteins contain nitrogen and our main N source.
+
+**Gelatin** - 86% protein / dry weight (lacks EAA tryptophan, isoleucine, threonine and methionine).
+If dogs are fed only gelatine they die within 1 month because gelatin lacks some EAAs.
+
+**Amino acids**:
+- **alanine** - ala - A
+- **arginine** - arg - R
+- **asparagine** - asn - N
+- **aspartic acid** - asp - D
+- **cysteine** - cys - C - little in legumes
+- **glutamine** - gln - Q
+- **glutamic acid** - glu - E
+- **glycine** - gly - G
+- **histidine** - his - H - essential
+- **isoleucine** - ile - I - essential
+- **leucine** - leu - L - essential
+- **lysine** - lys - K - essential - little in grains
+- **methionine** - met - M - essential - little in legumes
+- **phenylalanine** - phe - F - essential
+- **proline** - pro - P
+- **serine** - ser - S
+- **threonine** - thr - T - essential
+- **tryptophan** - trp - W - essential
+- **tyrosine** - tyr - Y - conditionally essential (can be converted from phenylalanine) 
+- **valine**- val - V - essential
+
+**Proteins in foods**:
+- **From animals**
+- eggs - 13%
+- fish - 15-23%
+- meat - 15-20%
+- cheese - 25-35%
+- milk - 3%
+- **From nuts & seeds**
+- peanuts - 26%
+- walnuts - 24%
+- sunflower seeds - 21%
+- sesame seeds - 20%
+- **From grains**
+- brown rice - 8%
+- quinoa - 14%
+- **From legumes**
+- lentils - 26%
+- chickpeas - 20%
+- soybeans - 36%
+
+- **2/3 grains** and **1/3 legumes** complement each other and provide all the amino acids we need.
+- **Milk** contains proteins that have opioid-like activity and are sometimes absorbed intact. Some people claim that
+they can't sleep without drinking a glass of milk before bed.
+- Protein turnover is around 250g/day. Most of it is recycled so daily needs for proteins are much less. 
+**0.8g/kg/day** for an average adult. More if exercising. 
+- Protein in blood **albumin** maintains fluid balance. It creates osmotic pressure that sucks fluids from intersticial
+space back into the blood. Lack of albumin causes edema.
+- **High-protein**, low-carb **diets** make you quickly **lose your weight** because you **lose a lot of water**, 
+which is needed to flush out nitrogen produced by catabolising proteins.
+- Protein absorption from animal sources is over 90%, from vegetable sources 70-90%.
+ 
 
 
 ### The 5 basic tastes
