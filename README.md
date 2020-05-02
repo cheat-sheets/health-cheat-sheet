@@ -20,6 +20,7 @@
   - [5. Lipids](#5-lipids)
   - [6. Proteins](#6-proteins)
   - [7. Vitamins](#7-vitamins)
+  - [8. Minerals](#8-minerals)
 - [Immune System](#immune-system)
 - [The Science of Well Being](#the-science-of-well-being)
 - [Infectious Desease](#infectious-desease)
@@ -1181,6 +1182,66 @@ to perform structural or regulatory functions in our body. Their deficiency caus
             - Cheese, eggs, meat, fish.
             - Folate in green leafy vegetables.
             - B12 in liver.
+           
+### 8. Minerals
+
+https://www.youtube.com/watch?v=Dv0N5Ae2TTY&list=PL3IIVyZl0FAO75_RwPHidQjiaw4Bp-BY6
+
+Water, proteins, carbs, fats and vitamins are made of: **carbon**, **oxygen**, **hydrogen**, **nitrogen**, **sulfur**.
+    
+**Macrominerals** (daily requirement > 100mg, they are electrolytes, regulate fluid balance, electrochemical gradients, 
+  acid-base balance):
+    - **Calcium** (Ca). 1.2kg in our body (mostly bones and teeth, also in bloodstream, cells). Necessary for muscle 
+      contraction, neurotransmission, blood clotting, blood pressure regulation. 
+          - **Sources**: green leafy vegetables, dairy products, nori, grains, beans, nuts and seeds, 
+            fish if eaten with bones. 
+          - **Factors reducing absorption**: sudden increases in fiber, phytate, oxalate, tannins; excess dietary phosphorus
+            to dietary Ca.
+          - **Factors promoting excretion**: high protein diets + low fruits and vegs, excess salt consumption, excess caffein.
+          - **Excess calcium**: reduces vit D activation, increases risk of kidney stones, soft tissues calcification.  
+    - **Phosphorus** (P).
+    - **Potassium** (K). RDA: 4.7g/day. Mostly outside of our cells. Lowers blood pressure (pulls water inside cells, promotes excess 
+      sodium excretion). 
+         - **Sources**: avocado, plum, banana, potato, nuts and legumes.
+    - **Sodium** (Na). RDA: 200mg/day, up to 2300mg/day is acceptable. Mostly inside of our cells.
+        - Risks of high intake: **water retention**, **increased blood pressure**, **increased stomach cancer risk**, 
+          **increased calcium excretion and bone demineralization**.
+    - **Chloride** (Cl). Needed to maintain electrochemical gradients, bugger pH and make stomach hydrochloric acid.
+      If acidifying affect increases kidneys buffering ability, **calcium is stolen from bones** to be used as a buffer.
+    - **Magnesium** (Mg).
+    
+**Trace minerals** (daily requirement < 20mg):
+    - **Iron**
+    - **Zinc**. Deficiency cases growth problems, attention span deficits, impaired immunity, increased risk of 
+      hypertension, coronary heart desease, diabetes. Of of symptoms of deficiency is deminished taste perception.
+      Cofactor of about 200 enzymes. Involved in antioxidant protection, regulation of gene expression.
+          - **Sources**: oysters, kidneys, meat, fish, eggs, whole grains, nuts, legumes.
+    - **Selenium**
+    - **Iodine**. Is a component of the thyroid hormones; selenium is also needed. Deficiency causes goiter. 
+        - **Sources**: seafood, seaweed, iodized salt. 
+    - **Copper**
+    - **Chromium**
+    - **Manganese**
+    - **Molybdenum**
+    
+**Ultratrace minerals** (essentiality not proven):
+    - **Boron**
+    - **Vanadium**
+    - **Silicon**
+    - **Tin**
+    - **Nichel**
+    - **Bromide**
+    - **Litium**
+    - **Germanium**
+    
+- Absorption of minerals depends on the mineral, its concentration and body needs.
+- Minerals are extremely stable - not affected by heat or light.
+- **Oxalate** (found in black pepper, parsley, poppy seed, amaranth, spinach, chard, beets, cocoa, chocolate, 
+most nuts, most berries, fishtail palms, beans) **binds calcium** reducing absorption. But citric acid enhances calcium absorption.
+- **Phytate** (found in Pumpkin seed, Linseed, Sesame seeds flour, Chia seeds, Almonds, Brazil nuts, Coconut, 
+Hazelnut, Peanut, Walnut) **bind zinc, copper, manganese and iron**.  
+- Table salt contains 40% sodium and 60% chloride.
+    
 
 ### The 5 basic tastes
 
