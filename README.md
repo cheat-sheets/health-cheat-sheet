@@ -1193,12 +1193,12 @@ Water, proteins, carbs, fats and vitamins are made of: **carbon**, **oxygen**, *
   acid-base balance):
     - **Calcium** (Ca). 1.2kg in our body (mostly bones and teeth, also in bloodstream, cells). Necessary for muscle 
       contraction, neurotransmission, blood clotting, blood pressure regulation. 
-          - **Sources**: green leafy vegetables, dairy products, nori, grains, beans, nuts and seeds, 
+        - **Sources**: green leafy vegetables, dairy products, nori, grains, beans, nuts and seeds, 
             fish if eaten with bones. 
-          - **Factors reducing absorption**: sudden increases in fiber, phytate, oxalate, tannins; excess dietary phosphorus
+        - **Factors reducing absorption**: sudden increases in fiber, phytate, oxalate, tannins; excess dietary phosphorus
             to dietary Ca.
-          - **Factors promoting excretion**: high protein diets + low fruits and vegs, excess salt consumption, excess caffein.
-          - **Excess calcium**: reduces vit D activation, increases risk of kidney stones, soft tissues calcification.  
+        - **Factors promoting excretion**: high protein diets + low fruits and vegs, excess salt consumption, excess caffein.
+        - **Excess calcium**: reduces vit D activation, increases risk of kidney stones, soft tissues calcification.  
     - **Phosphorus** (P).
     - **Potassium** (K). RDA: 4.7g/day. Mostly outside of our cells. Lowers blood pressure (pulls water inside cells, promotes excess 
       sodium excretion). 
