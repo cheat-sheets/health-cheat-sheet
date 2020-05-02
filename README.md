@@ -1160,7 +1160,7 @@ to perform structural or regulatory functions in our body. Their deficiency caus
           impaired immunity, **abnormal digestive function**. 
         - B12 (cobalamin). Deficiency results in anemia, severe and irreverable nerve damage. 
           Similar in function to B9. Can be stored in our liver. 
-        - -------------------
+        - --
         - B9 (folate), B12 and B6 reduce cardiovascular risk. 
         - Act as coenzymes to **extract energy from carbohydrates, lipids and proteins**.
         - Many are also important for the health of our **nervous system**.
@@ -1189,7 +1189,7 @@ https://www.youtube.com/watch?v=Dv0N5Ae2TTY&list=PL3IIVyZl0FAO75_RwPHidQjiaw4Bp-
 
 Water, proteins, carbs, fats and vitamins are made of: **carbon**, **oxygen**, **hydrogen**, **nitrogen**, **sulfur**.
     
-**Macrominerals** (daily requirement > 100mg, they are electrolytes, regulate fluid balance, electrochemical gradients, 
+- **Macrominerals** (daily requirement > 100mg, they are electrolytes, regulate fluid balance, electrochemical gradients, 
   acid-base balance):
     - **Calcium** (Ca). 1.2kg in our body (mostly bones and teeth, also in bloodstream, cells). Necessary for muscle 
       contraction, neurotransmission, blood clotting, blood pressure regulation. 
@@ -1210,7 +1210,7 @@ Water, proteins, carbs, fats and vitamins are made of: **carbon**, **oxygen**, *
       If acidifying affect increases kidneys buffering ability, **calcium is stolen from bones** to be used as a buffer.
     - **Magnesium** (Mg).
     
-**Trace minerals** (daily requirement < 20mg):
+- **Trace minerals** (daily requirement < 20mg):
     - **Iron**
     - **Zinc**. Deficiency cases growth problems, attention span deficits, impaired immunity, increased risk of 
       hypertension, coronary heart desease, diabetes. Of of symptoms of deficiency is deminished taste perception.
@@ -1224,7 +1224,7 @@ Water, proteins, carbs, fats and vitamins are made of: **carbon**, **oxygen**, *
     - **Manganese**
     - **Molybdenum**
     
-**Ultratrace minerals** (essentiality not proven):
+- **Ultratrace minerals** (essentiality not proven):
     - **Boron**
     - **Vanadium**
     - **Silicon**
