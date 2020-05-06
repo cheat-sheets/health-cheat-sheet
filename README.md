@@ -1198,8 +1198,20 @@ Water, proteins, carbs, fats and vitamins are made of: **carbon**, **oxygen**, *
         - **Factors reducing absorption**: sudden increases in fiber, phytate, oxalate, tannins; excess dietary phosphorus
             to dietary Ca.
         - **Factors promoting excretion**: high protein diets + low fruits and vegs, excess salt consumption, excess caffein.
-        - **Excess calcium**: reduces vit D activation, increases risk of kidney stones, soft tissues calcification.  
+        - **Excess calcium**: 
+            - reduces vit D activation. The primary function of active vit D is to increase Calcium absorption, thus if
+              Calcium is high less vit D will be activated. 
+            - increases risk of kidney stones; kidney failure;
+            - may interfere with zink and iron absorption;
+            - soft tissues calcification;  
+            - tetany (involuntary contraction of muscles); death;
     - **Phosphorus** (P).
+        - **Functions**: phosphorylation of enzymes; part of ATP (cell energetic currency); building block of DNA;
+          component of phospholipids (membranes of all cells); electorlyte (electrochemical gradient; acid-base balance);
+          structural function (85% phosphorus found in bones).  
+        - The intake of Phosphorus should be matched with Calcium (**1g of Phosphorus with 1g of Calcium**). Normally P intake
+          is 3 times more than Calcium as P is abundant in food and is used in many additives, flavour enhancers etc.
+        - Excess Phosphorus promotes bone Calcium depletion.
     - **Potassium** (K). RDA: 4.7g/day. Mostly outside of our cells. Lowers blood pressure (pulls water inside cells, promotes excess 
       sodium excretion). 
          - **Sources**: avocado, plum, banana, potato, nuts and legumes.
@@ -1209,9 +1221,18 @@ Water, proteins, carbs, fats and vitamins are made of: **carbon**, **oxygen**, *
     - **Chloride** (Cl). Needed to maintain electrochemical gradients, bugger pH and make stomach hydrochloric acid.
       If acidifying affect increases kidneys buffering ability, **calcium is stolen from bones** to be used as a buffer.
     - **Magnesium** (Mg).
+      - Should take 0.5g of Mg for every gram of Ca.
+      - Works with Calcium and Phosphorus to strengthen **structure of bones**.
+      - Works with Calcium in nerve transmission, heart beat regulation and muscle functioning.
+      - Needed by more than 300 enzymes involved in energy metabolism. 
+      - **Sources**: nuts and seeds, many vegetables, whole grains, snails, some hard waters.
     
 - **Trace minerals** (daily requirement < 20mg):
-    - **Iron**
+    - **Iron**. RDA: 8mg. 5g of iron in the body. Daily losses <1.5mg (hair, skin, nails, sweat, GI tract). Even small
+      excess is detrimental because it's a powerful pro-oxidant metal. 
+        - **Functions**: oxygen transport via hemoglobin, oxygen storage via myoglobin, energy metabolism, enzyme cofactor.
+        - Iron absorption is enhanced by vit C, by meat protein factor. Heme iron (meat, fish) is better absorbed (23%).
+          Non heme iron absorption (2-20%). 
     - **Zinc**. Deficiency cases growth problems, attention span deficits, impaired immunity, increased risk of 
       hypertension, coronary heart desease, diabetes. Of of symptoms of deficiency is deminished taste perception.
       Cofactor of about 200 enzymes. Involved in antioxidant protection, regulation of gene expression.
@@ -1253,6 +1274,13 @@ The 5 basic tastes help us identify nutrients in the food that are important for
 - **Bitter** - many bitter compounds are bitter and toxic. 
     Some antioxidants are bitter and healthy e.g. chocolate, coffee.
 - **Umami** - glutamate, contained in protein food, source of building material for cells in our body.
+
+### Gluten
+
+- Mood Disorders and Gluten: It’s Not All in Your Mind! A Systematic Review with Meta-Analysis: 
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6266949/
+- An exploration into the motivation for gluten avoidance in the absence of coeliac disease:
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6040027/
 
 ### Notes
 
