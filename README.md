@@ -1483,6 +1483,12 @@ Klotho is an enzyme that in humans is encoded by the KL gene.
 It appears to be involved in ageing. 
 Exercise seems to play a key role on expression of the Klotho gene https://www.ncbi.nlm.nih.gov/pubmed/29962352
 
+https://www.youtube.com/watch?v=NgOVN4050ow&ab_channel=%D0%9D%D0%B0%D1%83%D0%BA%D0%B042
+**Cold** and flew are caused by viruses. In colder temperature the body cools down and the probability to get a cold verus
+increases. The way it works is arteries and veins contract when body temperature decreases, including in nasopharynx
+so that the body loses less heat when breating. With decreases blood circulation in nasospharynx there is less 
+opportunity for immune cells to catch viruses.
+
 # Resources
 
 - The Science of Well-Being Coursera course: https://www.coursera.org/learn/the-science-of-well-being
@@ -1490,3 +1496,4 @@ Exercise seems to play a key role on expression of the Klotho gene https://www.n
 - Introductory Human Physiology https://www.coursera.org/learn/physiology
 - Epidemics - the Dynamics of Infectious Diseases https://www.coursera.org/learn/epidemics
 - Ninja Nerd Science https://www.youtube.com/channel/UC6QYFutt9cluQ3uSM963_KQ/playlists?view=50&sort=dd&shelf_id=2
+- Biohacking Andrej Karpatiy https://karpathy.github.io/2020/06/11/biohacking-lite/
